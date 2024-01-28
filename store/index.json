@@ -848,3 +848,13 @@
     	"invert": true
   }
 }]
+}
+	},
+	{
+		"name": "BonziWorld",
+		"icon": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
+		"type": "game",
+		"data": {
+			"type": "Chat",
+			"url": "https://bonziworld.org/",
+			"desc": "Bonziworld is a bonzibuddy chat"
